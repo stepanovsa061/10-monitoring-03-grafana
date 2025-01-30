@@ -28,13 +28,21 @@
 
 # Ответ 2
 
-![alt text](https://github.com/stepanovsa061/)
+утилизация CPU для nodeexporter (в процентах, 100-idle)
 
-![alt text](https://github.com/stepanovsa061/)
+![alt text](https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/2.1.PNG)
 
-![alt text](https://github.com/stepanovsa061/)
+CPULA 1/5/15
 
-![alt text](https://github.com/stepanovsa061/)
+![alt text](https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/2.2.PNG)
+
+количество свободной оперативной памяти
+
+![alt text](https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/2.3.PNG)
+
+количество места на файловой системе
+
+![alt text](https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/2.4.PNG)
 
 
 # Задание 3
@@ -43,7 +51,9 @@
 
 # Ответ 3
 
-![alt text](https://github.com/stepanovsa061/)
+Итоговый dashboard
+
+![alt text](https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/3.1.PNG)
 
 
 # Задание 4
@@ -52,5 +62,5 @@
 
 # Ответ 4
 
-![alt text](https://github.com/stepanovsa061/)
+JSON-файл: https://github.com/stepanovsa061/10-monitoring-03-grafana/blob/main/dashboard.json
 
